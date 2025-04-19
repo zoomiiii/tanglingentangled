@@ -1,18 +1,38 @@
 [
   {
-    "name": "Knight",
-    "image": "rbxassetid://97149871994520"
+    "name": "jon",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Common"
   },
   {
-    "name": "Archer",
-    "image": "rbxassetid://97149871994520"
+    "name": "jonh",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Uncommon"
   },
   {
-    "name": "Wizard",
-    "image": "rbxassetid://97149871994520"
+    "name": "jonhson",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Unique"
   },
   {
-    "name": "Wizarda",
-    "image": "rbxassetid://97149871994520"
+    "name": "honhson",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Mythic"
+  },
+  {
+    "name": "honh",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Fabled"
+  },
+  {
+    "name": "Signature",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Decadent"
+  },
+  {
+    "name": "horse",
+    "image": "rbxassetid://97149871994520",
+    "rarity": "Omegaly Standard"
   }
 ]
+
